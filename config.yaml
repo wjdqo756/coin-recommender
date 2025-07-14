@@ -1,0 +1,11 @@
+telegram_bot_token: "8190878755:AAGjxVFeWJIEFh_EiNj0Lkg1sqvGPq0I9yc"
+telegram_user_id: "1610103583"
+sheet_id: "1gGHhhwOzv9WmGOTA6WJeF6FH9zoF-bjiYdCdHvw28Gw"
+
+symbols:
+  - "BTCUSDT"
+  - "ETHUSDT"
+  - "SOLUSDT"
+  - "ADAUSDT"
+  - "ARKMUSDT"
+  - "RNDRUSDT"
